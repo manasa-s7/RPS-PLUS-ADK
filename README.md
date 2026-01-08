@@ -1,4 +1,4 @@
-# Rock Paper Scissors PLUS 🎮
+# Rock Paper Scissors PLUS ADK - AI Game Referee
 
 Production-grade Rock-Paper-Scissors game with intelligent AI, built using **Google ADK (Agent Design Kit)** principles.
 
